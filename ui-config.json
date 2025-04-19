@@ -1,0 +1,11 @@
+{
+  "inputs": [
+    {
+      "name": "channelUrl",
+      "type": "text",
+      "prompt": "Are.na Channel URL",
+      "placeholder": "https://www.are.na/username/channel-name",
+      "help": "Paste the full URL of the Are.na channel you want to follow."
+    }
+  ]
+}

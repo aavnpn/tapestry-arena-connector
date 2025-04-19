@@ -1,0 +1,14 @@
+{
+  "id": "com.na.arena",
+  "display_name": "Are.na Channel",
+  "description": "Shows the most recent blocks — text, links, and images — from any public Are.na channel.",
+  "site": "https://are.na",
+  "service_name": "Are.na",
+  "icon": "https://www.are.na/favicon.ico",
+  "item_style": "post",
+  "needs_verification": true,
+  "verify_variables": true,
+  "provides_attachments": true,
+  "site_variable": null,
+  "version": 3
+}
